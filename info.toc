@@ -1,0 +1,132 @@
+CD_DA
+CD_TEXT {
+    LANGUAGE_MAP {
+        0 : EN
+    }
+    LANGUAGE 0 {
+        TITLE "CAUTAM COMORI"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "CUCERITORII"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "1.CUCERITORII .wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "CAUTAM COMORI"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "CAUTAM COMORI NOU.wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "CU TOATE PANZELE SUS"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "3.CU TOATE PANZELE SUS.wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "DA SI AMIN"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "4.DA SI AMIN .wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "GHEDEON"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "5.GHEDEON .wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "IOSUA"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "6.IOSUA .wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "PESCARI DE OAMENI"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "7.PESCARI.wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "INVATA SA DARUIESTI"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "8.INVATA SA DARUIESTI .wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "FERICIRILE"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "9.FERICIRILE .wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "PORNIM LA DRUM"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "10.PORNIM LA DRUM .wav" 0
+
+TRACK AUDIO
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "CAUTAM COMORI MIX"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+PREGAP 0:2:0
+FILE "2.CAUTAM COMORI .wav" 0
+
