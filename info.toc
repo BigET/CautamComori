@@ -1,4 +1,4 @@
-CD_DA
+CD_ROM
 CD_TEXT {
     LANGUAGE_MAP {
         0 : EN
@@ -8,6 +8,17 @@ CD_TEXT {
         PERFORMER "Eclesia copiilor"
     }
 }
+
+TRACK MODE1
+COPY
+CD_TEXT {
+    LANGUAGE 0 {
+        TITLE "Eclesia copiilor"
+        PERFORMER "Eclesia copiilor"
+    }
+}
+DATAFILE "data.iso"
+ZERO 00:02:00
 
 TRACK AUDIO
 COPY
