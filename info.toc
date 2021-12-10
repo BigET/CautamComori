@@ -5,7 +5,7 @@ CD_TEXT {
     }
     LANGUAGE 0 {
         TITLE "CAUTAM COMORI"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 
@@ -14,7 +14,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "CUCERITORII"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -25,7 +25,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "CAUTAM COMORI"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -36,7 +36,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "CU TOATE PANZELE SUS"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -47,7 +47,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "DA SI AMIN"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -58,7 +58,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "GHEDEON"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -69,7 +69,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "IOSUA"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -80,7 +80,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "PESCARI DE OAMENI"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -91,7 +91,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "INVATA SA DARUIESTI"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -102,7 +102,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "FERICIRILE"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -113,7 +113,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "PORNIM LA DRUM"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
@@ -124,7 +124,7 @@ COPY
 CD_TEXT {
     LANGUAGE 0 {
         TITLE "CAUTAM COMORI MIX"
-        PERFORMER "Eclesia copiilor"
+        PERFORMER "Eclesia Copiilor"
     }
 }
 PREGAP 0:2:0
